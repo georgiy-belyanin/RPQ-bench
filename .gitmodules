@@ -1,0 +1,6 @@
+[submodule "vendor/LAGraph"]
+	path = vendor/LAGraph
+	url = https://github.com/SparseLinearAlgebra/LAGraph.git
+[submodule "vendor/GraphBLAS"]
+	path = vendor/GraphBLAS
+	url = https://github.com/DrTimothyAldenDavis/GraphBLAS.git
